@@ -1,0 +1,49 @@
+1. 
+git log
+commit 139488f836dc2b4dcf1ec5d502e1a5eddf1513f0 (HEAD -> master, origin/master, origin/HEAD)
+Author: oj <oj.lappi@gmail.com>
+Date:   Tue Mar 12 09:35:34 2019 +0200
+
+    status -> log i uppgift 1
+
+commit 6deb2c5a2a7197f8ed23cec8b1c122a5fd1e612a
+Author: oj <oj.lappi@gmail.com>
+Date:   Tue Mar 12 09:31:02 2019 +0200
+
+    Ändrade på lektion 6
+
+commit 39ccbd5341b0938d21f51774d622a6722ef93f2f
+Author: oj <oj.lappi@gmail.com>
+Date:   Tue Mar 12 08:48:47 2019 +0200
+
+    lektion6 skriven
+
+commit 10b3b0fe007fed6b59bbe7bc3d986dbb42f7be49
+Author: oj <oj.lappi@gmail.com>
+Date:   Mon Mar 11 13:17:32 2019 +0200
+
+    Uppdaterade lektion5
+
+commit c851e052541cba72bdcc44de67b6f3ae17f1407a
+Author: oj <oj.lappi@gmail.com>
+Date:   Mon Mar 4 10:42:45 2019 +0200
+
+    Markdown fix
+
+commit 83abdd40dd0591491922dc98ff88268c3ccf398a
+Author: oj <oj.lappi@gmail.com>
+Date:   Mon Mar 4 10:40:56 2019 +0200
+
+    Markdown fix
+
+commit 84e8a878aa2ff95eee62ebce31acd3aa4bc4708a
+Author: oj <oj.lappi@gmail.com>
+Date:   Mon Mar 4 10:38:24 2019 +0200
+
+    Markdown fix
+
+commit 181463083db48deb2d821ee829001b4324004157
+Author: oj <oj.lappi@gmail.com>
+Date:   Mon Mar 4 10:35:32 2019 +0200
+
+
